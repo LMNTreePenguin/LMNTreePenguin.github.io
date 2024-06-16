@@ -11125,7 +11125,8 @@ body {
 }
 
 .about-section img {
-  max-width: 500px;
+  max-width: 500px, device-width;
+  align-content: center;
 }
 
 .projects-section {
