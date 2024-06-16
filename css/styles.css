@@ -11124,6 +11124,10 @@ body {
   margin-bottom: 5rem;
 }
 
+.about-section img {
+  max-width: 500px;
+}
+
 .projects-section {
   padding: 10rem 0;
 }
