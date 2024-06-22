@@ -11212,3 +11212,14 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+.c-img {
+  max-height: 500px;
+  object-fit: scale-down;
+}
+
+.g-img {
+  max-height: 300px;
+  max-width: 300px;
+  object-fit: scale-down;
+}
